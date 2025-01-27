@@ -1,0 +1,1 @@
+## Undertale Yellow 简体中文本地化项目使用的测试用存档
